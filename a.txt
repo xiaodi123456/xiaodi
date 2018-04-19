@@ -10,6 +10,12 @@ asd
 fsa
 df
 asdf
+<<<<<<< HEAD
 asdasdsadasdssssssssssssssssssssssssssssssssssssss
 aaaaaaaaa
 vvvvvvvvvvv
+=======
+asdasdsadasdssssssssssssssssssssssssssssssssssssss
+aaaaaaaaa
+
+>>>>>>> 0f63e07773ad9e3fba8cf26dfa1525792431a889
